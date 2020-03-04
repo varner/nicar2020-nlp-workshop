@@ -13,7 +13,8 @@ To get the most out of this session, comfort in Python is ideal.
 The material from this workshop is based off of curriculum from Advanced Data Journalism, co-taught by Lam Thuy Vo and Maddy Varner at the [Craig Newmark Graduate School of Journalism](https://www.journalism.cuny.edu/), Fall 2019.
 
 - The presentation slides for this workshop can be found [here](https://docs.google.com/presentation/d/135HEZHdgMt-kAuPR1uE6r_TC1ZKSUOgEMh7monZAC-o/edit?usp=sharing)
-- A mirror of this is available [here](https://github.com/varner/tk)
+- A mirror of this is available [here](https://github.com/varner/nicar2020-nlp-workshop)
+- Want even MORE ways to investigate the social web? Check out Lam's book, [_Mining Social Media_](https://nostarch.com/miningsocialmedia)!
 
 ### Installation
 
